@@ -1,0 +1,15 @@
+{
+  "name": "safe-callback",
+  "version": "0.0.1",
+  "private": true,
+  "homepage": "https://github.com/uwo-cs9864-2016/safe-callback", 
+  "bugs": "https://github.com/uwo-cs9864-2016/safe-callback/issues",
+  "license": "MIT",
+  "author": {
+    "name" : "Kevin Brightwell", 
+    "url" : "https://github.com/Nava2"
+  },
+  "dependencies": {
+    "lodash": "^4.6.1"
+  }
+}
